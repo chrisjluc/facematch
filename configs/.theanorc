@@ -1,0 +1,14 @@
+[global]
+device = gpu
+floatX = float32
+optimizer = fast_run
+optimizer_including=cudnn
+
+[lib]
+cnmem = .6
+
+[cuda]
+root = /usr/local/cuda
+
+[nvcc]
+fastmath = True

@@ -86,7 +86,7 @@ pytz==2015.7
 pyzmq==14.0.1
 qtconsole==4.2.1
 requests==2.2.1
-rsa==3.3
+rsa==4.7
 s3transfer==0.0.1
 salt==2015.8.0
 scikit-image==0.11.3

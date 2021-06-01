@@ -98,7 +98,7 @@ ssh-import-id==3.21
 terminado==0.6
 tornado==4.3
 traitlets==4.1.0
-urllib3==1.7.1
+urllib3==1.26.5
 virtualenv==14.0.6
 wheel==0.24.0
 wsgiref==0.1.2

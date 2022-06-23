@@ -88,7 +88,7 @@ qtconsole==4.2.1
 requests==2.2.1
 rsa==3.3
 s3transfer==0.0.1
-salt==2015.8.0
+salt==3003.3
 scikit-image==0.11.3
 scipy==0.13.3
 simplegeneric==0.8.1

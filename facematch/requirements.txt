@@ -53,7 +53,7 @@ leveldb==0.193
 matplotlib==1.5.1
 mistune==0.7.2
 msgpack-python==0.3.0
-nbconvert==4.1.0
+nbconvert==6.3.0
 nbformat==4.0.1
 networkx==1.11
 newrelic-api==1.0.4

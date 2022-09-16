@@ -4,7 +4,7 @@ Jinja2==2.7.2
 Keras==1.0.3
 Landscape-Client==14.12
 M2Crypto==0.21.1
-Mako==1.0.4
+Mako==1.2.2
 MarkupSafe==0.18
 PAM==0.4.2
 Pillow==2.3.0

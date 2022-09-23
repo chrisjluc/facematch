@@ -66,7 +66,7 @@ path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.6
 prettytable==0.7.2
-protobuf==2.6.1
+protobuf==3.18.3
 psutil==4.0.0
 ptyprocess==0.5.1
 py==1.4.31
